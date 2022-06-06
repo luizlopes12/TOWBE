@@ -23,7 +23,7 @@ link: https://www.figma.com/proto/1rXc8AuJge08Xg8hMvEVBr/Projeto-Integrador---UI
 
 ### Contribuidores
 
-- [x] <a href="https://github.com/luizlopes12">Luiz Lopes</a>
-- [x] <a href="https://github.com/mfelipegs">Matheus Felipe</a>
-- [x] <a href="https://github.com/MateusOK">Mateus Ribeiro</a>
+- [x] <a href="https://github.com/luizlopes12" target="_blank">Luiz Lopes</a>
+- [x] <a href="https://github.com/mfelipegs" target="_blank">Matheus Felipe</a>
+- [x] <a href="https://github.com/MateusOK" target="_blank">Mateus Ribeiro</a>
 
