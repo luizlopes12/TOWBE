@@ -1,5 +1,5 @@
 # TOWBE
- Projeto do primeiro semestre de Desenvolvimento de Software Multiplataforma na FATEC
+ Projeto do primeiro semestre de Desenvolvimento de Software Multiplataforma - FATEC
  
 ## O que é o TOWBE?
 A proposta deste projeto é o de desenvolver um sistema para conectar bananicultores e usinas em busca de biomassa da banana, a fim de fornecer os meios para uma gestão de seus estoques e facilitar a venda da biomassa ou a troca por uma parcela da energia gerada.
