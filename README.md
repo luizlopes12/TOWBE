@@ -26,9 +26,11 @@ link: https://www.figma.com/proto/1rXc8AuJge08Xg8hMvEVBr/Projeto-Integrador---UI
 - [x] luizlopes12
 
 Perfil: https://github.com/luizlopes12
+
 - [x] mfelipegs
 
 Perfil: https://github.com/mfelipegs
+
 - [x] MateusOK
 
 Perfil: https://github.com/MateusOK
