@@ -27,4 +27,4 @@ link: https://www.figma.com/proto/1rXc8AuJge08Xg8hMvEVBr/Projeto-Integrador---UI
 - [x] <a href="https://github.com/mfelipegs" target="_blank">Matheus Felipe</a>
 - [x] <a href="https://github.com/MateusOK" target="_blank">Mateus Ribeiro</a>
 - [x] <a href="https://github.com/cuckoo-head" target="_blank">Levi Azevedo</a>
-
+- [x] <a href="https://github.com/LuizGustavoSouzaAlmeida" target="_blank">Luiz Gustavo</a>
