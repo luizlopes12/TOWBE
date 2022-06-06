@@ -8,8 +8,8 @@ A proposta deste projeto é o de desenvolver um sistema para conectar bananicult
 
 
 ### O que eu fiz?
-Fiquei resposável por criar o protótipo no figma e o website do projeto.
-
+Fiquei resposável por criar a apresentação, o protótipo no figma e o website do projeto.
+ 
 ### Website
 link: https://luizlopes12.github.io/site_ODS/
 ![screenshot](./screenshot.png)
