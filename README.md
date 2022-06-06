@@ -17,4 +17,6 @@ link: https://luizlopes12.github.io/site_ODS/
 
 ### Protótipo interativo
 link: https://www.figma.com/proto/1rXc8AuJge08Xg8hMvEVBr/Projeto-Integrador---UI?node-id=0%3A1
+<div style="width: 100%; display: flex; justify-content: center;">
 ![tela](./tela.png)
+</div>
